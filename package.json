@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "libnmap": "^0.4.19"
+    "libnmap": "^0.4.19",
+    "yargs": "^15.3.1"
   }
 }
